@@ -18,7 +18,7 @@
 
 ---
 
-## :desktop: Preview 
+## :desktop: Preview
 
 <p align="center">
   <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
